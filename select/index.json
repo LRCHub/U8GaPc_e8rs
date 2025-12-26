@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Aitai-tai",
+  "base_artist": "Red Velvet",
+  "createdAt": "2025-12-26T01:20:27.103076Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aitai-tai",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/01_Aitai-tai_Red_Velvet.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aitai-tai",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/02_Aitai-tai_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aitai‐tai",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/03_Aitai‐tai_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aitai-tai",
+      "artist": "Red Velvet (레드벨벳)",
+      "has_synced": true,
+      "path": "select/04_Aitai-tai_Red_Velvet_(레드벨벳).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aitai-tai",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/05_Aitai-tai_Red_Velvet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aitai-tai",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_Aitai-tai_Red_Velvet.txt"
+    }
+  ]
+}
